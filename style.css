@@ -1,0 +1,48 @@
+html,
+body {
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(black,#121212,#252525);
+}
+
+img {
+	width: 70%;
+	height: 50%;
+	border: solid grey 1px;
+	border-radius: 10%;
+}
+
+.fntBig {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 60px;
+	color: #f40101;
+}
+
+.fntMedium {
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.fntSmall {
+	font-weight: bold;
+	font-size: 15px;
+	color: #7d7878;
+}
+
+.buyBtn {
+	width: 70px;
+	height: 40px;
+	border-radius: 20px;
+}
+
+.buyBtn:hover {
+	background-color: #9595f4;
+}
+
+#code {
+	font-weight: normal;
+	font-size: 20px;
+	color: #4bc10b;
+}
